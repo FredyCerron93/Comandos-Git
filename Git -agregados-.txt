@@ -1,8 +1,8 @@
 PARA INICIAR REPOSITORIO
 //crear proyecto en githud
+git init //crea repositorio
 git remote add origin https:.... //va el link
 //subir el proyecto
-git init //crea repositorio
 git add .
 git commit -m "'mensaje'"
 git push origin master
