@@ -1,13 +1,29 @@
 PARA INICIAR REPOSITORIO
-//crear proyecto en githud
 git init //crea repositorio
 git remote add origin https:.... //va el link
-//subir el proyecto
+
+subir el proyecto
 git add .
 git commit -m "'mensaje'"
 git push origin master
 //-----------------------------------------------------------------------------------------------
+PARA CREAR RAMAS
+git branch 'NOMBRE'
 
+CAMBIAR DE RAMAS
+git checkout 'NOMBRE'
+
+CAMBIAR NOMBRE DE LA RAMA
+git branch -m 'NOMBRE VIEJO' 'NOMBRE NUEVO'
+
+BORRAR RAMA
+git branch -d 'NOMBRE'
 //-----------------------------------------------------------------------------------------------
 PARA CLONAR REPOSITORIO
 git clone https:... //va el link
+
+SUBIR PARTE
+git add .
+git commit -m "MENSAJE"
+git push origin NOMBRE
+//-----------------------------------------------------------------------------------------------
