@@ -6,3 +6,8 @@ git remote add origin https:.... //va el link
 git add .
 git commit -m "'mensaje'"
 git push origin master
+//-----------------------------------------------------------------------------------------------
+
+//-----------------------------------------------------------------------------------------------
+PARA CLONAR REPOSITORIO
+git clone https:... //va el link
