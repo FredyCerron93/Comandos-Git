@@ -25,5 +25,5 @@ git clone https:... //va el link
 SUBIR PARTE
 git add .
 git commit -m "MENSAJE"
-git push origin NOMBRE
+git push origin "NOMBRE DE LA RAMA"
 //-----------------------------------------------------------------------------------------------
