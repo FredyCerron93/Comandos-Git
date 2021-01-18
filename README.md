@@ -26,6 +26,6 @@
     * git push origin "NOMBRE DE LA RAMA"
 //-----------------------------------------------------------------------------------------------\
 
-Ver mas:
+Ver mas:\
 https:\
-//confluence.atlassian.com/bitbucketserver/markdown-syntax-guide-776639995.html\
+<confluence.atlassian.com/bitbucketserver/markdown-syntax-guide-776639995.html\>
