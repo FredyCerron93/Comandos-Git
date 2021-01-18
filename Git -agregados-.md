@@ -1,3 +1,4 @@
+# Lista de Comandos 
 1. PARA INICIAR REPOSITORIO
 git init //crea repositorio
 git remote add origin https:.... //va el link
