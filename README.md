@@ -1,7 +1,7 @@
 # Lista de Comandos 
 1. PARA INICIAR REPOSITORIO
-    1. git init                                         //crea repositorio
-    2. git remote add origin https:....                 //va el link
+    * git init                                         //crea repositorio
+    * git remote add origin https:....                 //va el link
     * git clone https:... //va el link
 
 2. subir el proyecto
@@ -25,3 +25,6 @@
     * git commit -m "MENSAJE"
     * git push origin "NOMBRE DE LA RAMA"
 //-----------------------------------------------------------------------------------------------
+
+Ver mas:\
+https://confluence.atlassian.com/bitbucketserver/markdown-syntax-guide-776639995.html\
