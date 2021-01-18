@@ -4,14 +4,15 @@ git init //crea repositorio
 git remote add origin https:.... //va el link
 //-----------------------------------------------------------------------------------------------
 2. subir el proyecto
-git add .
+2.1. git add .
 git reset . 			//deshace los archivos incluidos en el ADD
 git commit -m "'mensaje'"
 git commit --amend 		//editar el ultimo commit (press 'i', 'ESC, :, wq!')
 git checkout -- . 		//vuelve a la version anterior al commit
 git push origin master
 //-----------------------------------------------------------------------------------------------
-3. PARA CREAR RAMAS
+3. Manejo de Ramas 
+PARA CREAR RAMAS
 git branch 'NOMBRE'
 
 CAMBIAR DE RAMAS
